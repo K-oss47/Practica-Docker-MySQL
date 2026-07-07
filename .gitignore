@@ -1,0 +1,4 @@
+.vs/
+mysql_data/
+*.user
+*.suo
